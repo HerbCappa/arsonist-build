@@ -1,3 +1,8 @@
-2
+3
 |||
-Test message 1
+UPDATES
+
+Added Comedy section to Favorites
+Added Repository links
+Updated LiveTV Section
+Added Hood Radio to Music Section
