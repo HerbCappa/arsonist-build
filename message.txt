@@ -1,8 +1,10 @@
-3
+4
 |||
+
+
 UPDATES
 
-Added Comedy section to Favorites
-Added Repository links
+Added Comedy category to Favorites submenu
+Added missing repository links
 Updated LiveTV Section
-Added Hood Radio to Music Section
+Added Hood Radio to Music submenu
