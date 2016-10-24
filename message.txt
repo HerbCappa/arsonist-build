@@ -1,4 +1,4 @@
-5
+6
 |||
 
 
@@ -10,8 +10,6 @@ Go to Arsonist
 Click on Arsonist Wizard in the submenu
 Select your version of the Arsonist build.
 Build will then download, and extract.
-
 ***********EXTREMELY IMPORTANT.****************
-ONCE YOUR GET THE 
-DOWNLOAD COMPLETE MESSAGE DO NOT CLICK ANYTHING. 
+DO NOT CLICK OK WHEN DOWNLOAD COMPLETE 
 UNPLUG YOUR DEVICE THEN PLUG IT BACK IN.
