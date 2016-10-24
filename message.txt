@@ -1,10 +1,17 @@
-4
+5
 |||
 
 
 UPDATES
+Added new links, fixed broken links.
+Added new addons.
 
-Added Comedy category to Favorites submenu
-Added missing repository links
-Updated LiveTV Section
-Added Hood Radio to Music submenu
+Go to Arsonist
+Click on Arsonist Wizard in the submenu
+Select your version of the Arsonist build.
+Build will then download, and extract.
+
+***********EXTREMELY IMPORTANT.****************
+ONCE YOUR GET THE 
+DOWNLOAD COMPLETE MESSAGE DO NOT CLICK ANYTHING. 
+UNPLUG YOUR DEVICE THEN PLUG IT BACK IN.
