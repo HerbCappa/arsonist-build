@@ -1,4 +1,4 @@
-8
+9
 |||
 
 
@@ -6,7 +6,6 @@ UPDATES
 Added new repositories to update current addons.
 Updated Mimic Skin to prevent the black skin error.
 Added Arsonist Update Notification Addon to builds.
-
 
 Go to Arsonist
 Click on Arsonist Wizard in the submenu
