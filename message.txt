@@ -1,16 +1,13 @@
-9
+10
 |||
 
 
 UPDATES
-Added new repositories to update current addons.
-Updated Mimic Skin to prevent the black skin error.
-Added Arsonist Update Notification Addon to builds.
+Complete Arsonist - X - Rated rebuild.
+Use the Arsonist Wizard Fresh Start option 
+to wipe your kodi before reinstalling the 
+new updated build.
 
-Go to Arsonist
-Click on Arsonist Wizard in the submenu
-Select your version of the Arsonist build.
-Build will then download, and extract.
-***********EXTREMELY IMPORTANT.****************
-DO NOT CLICK OK WHEN DOWNLOAD COMPLETE 
-UNPLUG YOUR DEVICE THEN PLUG IT BACK IN.
+UPDATE INSTRUCTIONS
+visit da-arsonist.tk and download the 
+build update tutorial.
