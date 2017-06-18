@@ -1,13 +1,15 @@
-10
+11
 |||
 
 
 UPDATES
 Complete Arsonist - X - Rated rebuild.
+Complete Arsonist - R - Rated rebuild.
 Use the Arsonist Wizard Fresh Start option 
 to wipe your kodi before reinstalling the 
 new updated build.
 
-UPDATE INSTRUCTIONS
-visit da-arsonist.tk and download the 
-build update tutorial.
+UPDATE INSTRUCTIONS:
+
+Visit da-arsonist.tk/how_to/updatebuild.pdf
+and download the build update tutorial.
