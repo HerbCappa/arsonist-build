@@ -11,5 +11,4 @@ ARSONIST TV VERSION 0.0.11
 
 UPDATE INSTRUCTIONS:
 
-Visit da-arsonist.tk/how_to/updatebuild.pdf and 
-download the build update tutorial.
+Visit da-arsonist.tk/how_to/updatebuild.pdf and download the build update tutorial.
