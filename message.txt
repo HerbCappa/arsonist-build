@@ -5,9 +5,10 @@
 UPDATES
 Complete Arsonist - X - Krypton Update 7/23.  
 
-URBANKINGZ is working now
-EXODUS and 1CHANNEL Addons are back
-ARSONIST TV VERSION 0.0.11
+FAVORITES > URBANKINGZ Addon is back working
+FAVORITES > ARSONIST TV updated to Version 0.0.11
+MOVIES > EXODUS and 1CHANNEL Addons are back
+TV SHOWS > EXODUS and 1CHANNEL Addons are back
 
 UPDATE INSTRUCTIONS:
 
