@@ -1,15 +1,16 @@
-13
+14
 |||
 
 
 UPDATES
-Arsonist - X - Krypton Update 7/23.
-Arsonist - R - Krypton Update 7/23.
+Arsonist - X - Krypton Update 12/10.
+Arsonist - R - Krypton Update 12/10.
 
-FAVORITES > URBANKINGZ Addon is back working
-FAVORITES > ARSONIST TV updated to Version 0.0.11
-MOVIES > EXODUS and 1CHANNEL Addons are back
-TV SHOWS > EXODUS and 1CHANNEL Addons are back
+FAVORITES > ARES MAFIA added
+MOVIES > EXODUS has been replaced with GURZIL
+MOVIES > NEW!!! THE PYRAMID, MAVERICK
+TV SHOWS > NEW!!! THE PYRAMID
+HER PLACE > MENU HAS BEEN REDONE WITH NEW ADDONS
 
 UPDATE INSTRUCTIONS:
 
